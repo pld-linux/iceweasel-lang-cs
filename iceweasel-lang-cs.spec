@@ -2,12 +2,12 @@
 Summary:	Czech resources for Iceweasel
 Summary(pl.UTF-8):	Czeskie pliki językowe dla Iceweasel
 Name:		iceweasel-lang-%{_lang}
-Version:	3.0.3
+Version:	3.0.4
 Release:	1
 License:	GPL
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	e7588783acf41a372778cf18c3d9fb66
+# Source0-md5:	85f386907a936a8f0faa0204184c7d54
 URL:		http://www.mozilla.org/
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
